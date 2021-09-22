@@ -42,6 +42,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ### Service Provider Details Page
 
-![Screenshot 2021-09-22 at 12 26 50 PM](https://user-images.githubusercontent.com/79961545/134298009-6e0a9458-e106-4ca4-a30e-6e4089f5b0c4.png)
+![Screenshot 2021-09-22 at 12 34 38 PM](https://user-images.githubusercontent.com/79961545/134298092-c8e61598-3c99-4bdd-9d73-fd8aea1aa586.png)
 
 

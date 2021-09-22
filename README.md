@@ -35,3 +35,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ### home page
 
 ![Screenshot 2021-09-22 at 12 21 52 PM](https://user-images.githubusercontent.com/79961545/134296383-c86bf963-6fdf-4a53-b538-fda4c804beb8.png)
+
+### Service Provider Page
+
+![Screenshot 2021-09-22 at 12 26 50 PM](https://user-images.githubusercontent.com/79961545/134297082-1cede974-92d1-4f35-987e-c6a313572b54.png)
+

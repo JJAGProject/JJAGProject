@@ -1,6 +1,6 @@
-# JJAG
+# Home Appliances Services Project (JJAG)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
+This project was builded with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
 ## How to use
 

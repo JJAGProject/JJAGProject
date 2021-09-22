@@ -18,16 +18,16 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 # Website Look And Feel
 
-### Login Page.
-<center>
-![Screenshot 2021-09-22 at 12 15 09 PM](https://user-images.githubusercontent.com/79961545/134295566-10c6fcc6-9d5d-47d7-8c2d-35e37ed539cc.png)</center>
+### Sign In Page
+
+![Screenshot 2021-09-22 at 12 15 09 PM](https://user-images.githubusercontent.com/79961545/134295566-10c6fcc6-9d5d-47d7-8c2d-35e37ed539cc.png)
 
 ### Sign Up Page
 
-![Screenshot 2021-09-22 at 12 42 54 PM](https://user-images.githubusercontent.com/79961545/134299015-0995eb60-7880-4aed-ae54-4b9126c839f5.png)
+<center><img url = "![Screenshot 2021-09-22 at 12 42 54 PM](https://user-images.githubusercontent.com/79961545/134299015-0995eb60-7880-4aed-ae54-4b9126c839f5.png)"></center>
 
 
-### home page
+### Home page
 
 ![Screenshot 2021-09-22 at 12 21 52 PM](https://user-images.githubusercontent.com/79961545/134296383-c86bf963-6fdf-4a53-b538-fda4c804beb8.png)
 
